@@ -1,0 +1,16 @@
+the compiler is WIN-Prolog_7000
+that we get it from the school 
+
+to start the program compile it in WIN-Prolog_7000 and press in the console play. 
+
+the program uses so many complex facts and rules and logic relations between them 
+and uses some algorithms like write-list that its print in each "loop" the head of the list and go to the sublists
+
+the program diagnosis witch heart disease the patent had by asking the patent questions about 
+the status and the feeling and the body signs  if the program fail to connect the signs to the facts and rules
+it asking the patent to go get check out in the doctor
+
+the answering inputs that cancel the program{bye,goodbye,cancel}
+the answering inputs that answer to the question yes{Y,y,Yes,yes,always,somtimes,ont time,tow times,three times}
+all other (words) is valid but saying 'NO' to the program
+ 
